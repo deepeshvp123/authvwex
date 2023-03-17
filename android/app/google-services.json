@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656074659186",
+    "project_id": "authambrezent",
+    "storage_bucket": "authambrezent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656074659186:android:95fa288a6f275bad7739eb",
+        "android_client_info": {
+          "package_name": "com.example.authvwex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656074659186-7np1ttktc7lbbdt1vo2lmv8eppjkcr1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYarzmg1Ev6Gs4BotL8UYTnU2MxPCEOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656074659186-7np1ttktc7lbbdt1vo2lmv8eppjkcr1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
